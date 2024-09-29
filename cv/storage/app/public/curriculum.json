@@ -1,0 +1,87 @@
+{
+    "nombre": "Manuel Antonio Serrano Gómez",
+    "telefono": "123456789",
+    "email": "manuelsg_elec@hotmail.com",
+    "linkedin": "www.linkedin.com/in/manuel-antonio-serrano-gómez-62085657",
+    "github":"github.com/ManuelSGelec/manu",
+    "experiencia": [
+        {
+            "empresa": "EfiData",
+            "cargo": "Helpdesk / Técnico de campo",
+            "fecha": "Mayo de 2014 - Presente",
+            "descripcion": [
+                "Montaje, instalación y asistencia técnica de equipos informáticos de autopago.",
+                "Soporte técnico tanto en remoto como presencial.",
+                "Impartición de formación en aplicaciones a usuarios finales."
+            ]
+        },
+        {
+            "empresa": "Elecnor",
+            "cargo": "Instalador de fibra óptica",
+            "fecha": "Diciembre de 2013 - Mayo de 2014",
+            "descripcion": [
+                "Instalación de fibra óptica en domicilios y locales comerciales."
+            ]
+        },
+        {
+            "empresa": "IRVIA-BCN",
+            "cargo": "Técnico de mantenimiento",
+            "fecha": "Noviembre de 2012 - Abril de 2013",
+            "descripcion": [
+                "Realización de prácticas en empresa.",
+                "Mantenimiento de unidades tipo Civia y pruebas de cabina, aire acondicionado e interiorismo."
+            ]
+        },
+        {
+            "empresa": "Multiple Engineering Solutions",
+            "cargo": "Montador de cuadros eléctricos",
+            "fecha": "Octubre de 2010 - Marzo de 2011",
+            "descripcion": [
+                "Ayuda en la gestión de procesos, mantenimiento y fabricación de cuadros eléctricos."
+            ]
+        },
+        {
+            "empresa": "Eclipse Combustion",
+            "cargo": "Montador de cuadros eléctricos",
+            "fecha": "Enero de 2008 - Mayo de 2008",
+            "descripcion": [
+                "Revisión y realización de cuadros eléctricos para maniobras de equipos automatizados de combustión."
+            ]
+        }
+    ],
+    "educacion": [
+        {
+            "institucion": "La Salle BCN",
+            "titulo": "Formación Profesional de Grado Superior, Desarrollo de aplicaciones multiplataforma",
+            "fecha": "Septiembre de 2022"
+        },
+        {
+            "institucion": "IES SEP Escola del Treball de Barcelona",
+            "titulo": "Técnico Superior en Sistemas de Regulación y Control Automático, Electricidad y Electrónica",
+            "fecha": "2011 - 2013"
+        },
+        {
+            "institucion": "IES Rambla Prim",
+            "titulo": "Técnico Superior en Instalaciones Electrotécnicas, Electricidad y Electrónica",
+            "fecha": "2009 - 2011"
+        },
+        {
+            "institucion": "IES Rambla Prim",
+            "titulo": "Técnico en Equipos e Instalaciones Electrotécnicas (GM), Electricidad y Electrónica",
+            "fecha": "2006 - 2008"
+        }
+    ],
+    "skills": [
+        "Programación",
+        "Redes",
+        "Mantenimiento",
+        "Electricidad y Electrónica",        
+        "Trabajo en equipo",
+        "Gestión de tiempo",
+        "Trabajo bajo presión",
+        "Resolución de problemas"
+
+
+        
+    ]
+}
