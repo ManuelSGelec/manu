@@ -12,8 +12,9 @@
                            <h2 class="display-6 fw-bold text-dark">{{ $curriculum['nombre'] }}</h2>
                            <p class="text-muted mb-1"><strong>Teléfono:</strong> {{ $curriculum['telefono'] }}</p>
                            <p class="text-muted mb-1"><strong>Email:</strong> <a href="mailto:{{ $curriculum['email'] }}" class="text-decoration-none text-primary">{{ $curriculum['email'] }}</a></p>
-                           <p class="text-muted"><strong>LinkedIn:</strong> <a href="https://{{ $curriculum['linkedin'] }}" class="text-decoration-none text-primary" target="_blank">Consultar</a></p>
-                       </div>
+                           <p class="text-muted mb-1"><strong>LinkedIn:</strong> <a href="https://{{ $curriculum['linkedin'] }}" class="text-decoration-none text-primary" target="_blank">Consultar</a></p>
+                           <p class="text-muted mb-1"><strong>Github:</strong> <a href="https://{{ $curriculum['github'] }}" class="text-decoration-none text-primary" target="_blank">Consultar</a></p>
+                        </div>
                        <!-- Foto dentro de la tarjeta -->
                        <div class="ms-auto">
                            <img src="path_to_your_image.jpg" alt="Foto de {{ $curriculum['nombre'] }}" class="img-fluid rounded-circle border" style="max-width: 120px; border-width: 2px;">
