@@ -26,7 +26,7 @@
                 <h3 class="mt-4 ">Habilidades</h3>
                 <div class="d-flex flex-wrap justify-content-center mb-4" ">
                      @foreach($curriculum['skills'] as $habilidad)
-                        <span class="badge border me-2 mb-2" style="border-radius: 25px; padding: 8px 15px; font-size: 14px; background-color: #0843e4;">{{ $habilidad }}</span>
+                        <span class="badge border me-2 mb-2" style="border-radius: 25px; padding: 8px 15px; font-size: 14px; background-color: #5f7dcd;">{{ $habilidad }}</span>
                      @endforeach
                 </div>
 
@@ -34,7 +34,7 @@
                <h3 class="mt-4 text-dark">Experiencia</h3>
                <div class="list-group">
                    @foreach($curriculum['experiencia'] as $experiencia)
-                       <div class="list-group-item list-group-item-action mb-3 shadow-sm p-4" style="border-left: 5px solid #007bff;">
+                       <div class="list-group-item list-group-item-action mb-3 shadow-sm p-4" style="border-left: 5px solid #7fb0e5;">
                            <h5 class="mb-1 fw-bold">{{ $experiencia['cargo'] }}</h5>
                            <p class="text-muted mb-2"><strong>Empresa:</strong> {{ $experiencia['empresa'] }}</p>
                            <small class="text-muted">Fecha: {{ $experiencia['fecha'] }}</small>
